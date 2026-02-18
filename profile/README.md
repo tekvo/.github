@@ -1,182 +1,171 @@
-# 👋 Welcome to Tekvo
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Engineered+for+Scale;Production-Grade+SaaS+Architecture;AI+Infrastructure+That+Performs&center=true&size=26&width=1000)
+# Tekvo
 
-🚀 **Tekvo builds, scales, and maintains AI-native SaaS platforms and enterprise data systems.**  
-We engineer production-ready architectures designed for reliability, performance, and long-term evolution.
+### AI systems engineered for scale
 
-👉 **Think of Tekvo as your engineering partner for AI systems that must work in production — not just demos.**
+[![Website](https://img.shields.io/badge/Website-tekvo.io-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://www.tekvo.io)
+[![Email](https://img.shields.io/badge/Email-inquiry%40tekvo.io-e11d48?style=flat-square&logo=minutemailer&logoColor=white)](mailto:inquiry@tekvo.io)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918149952535)
 
----
-
-## 🌐 Get in Touch
-
-[![Website](https://img.shields.io/badge/Website-www.tekvo.io-10b981?style=for-the-badge)](https://www.tekvo.io)
-[![Email](https://img.shields.io/badge/Email-inquiry@tekvo.io-D14836?style=for-the-badge)](mailto:inquiry@tekvo.io)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge)](https://wa.me/918149952535)
+</div>
 
 ---
 
-## 🎯 What We Solve
-
-Most AI platforms struggle **after launch**:
-
-- systems don’t scale
-- inference becomes expensive
-- data pipelines break
-- operations become fragile
-- maintenance costs explode
-
-### Tekvo solves this by engineering **AI-native platforms** that are:
-
-✅ Scalable from day one  
-✅ Secure & enterprise-ready  
-✅ Observable & maintainable  
-✅ Designed for continuous improvement  
-
-> We don’t just ship features —  
-> **we design systems that stay reliable as usage, data, and complexity grow.**
+> **We build, scale, and maintain AI-native SaaS platforms and enterprise-grade data systems.**  
+> Production-ready architectures that are secure, scalable, and built for continuous evolution.
 
 ---
 
-## 🧠 Core Engineering Capabilities
+## Table of Contents
 
-### 🏗️ AI Systems Architecture
-- Model serving & inference infrastructure  
-- LLM integration (RAG, copilots, enterprise assistants)  
-- Multi-model orchestration & ensemble layers  
-- GPU-enabled inference pipelines  
-- AI validation & evaluation frameworks  
-- Model versioning & safe rollout strategies  
-- Monitoring, observability & drift detection  
-- Secure on-prem / hybrid deployments  
-
----
-
-### 📊 Data Platform Engineering
-- Batch & real-time data pipelines  
-- Streaming & event-driven architectures  
-- Data lake & warehouse design  
-- Feature store implementation  
-- Metadata & lineage tracking  
-- Large dataset streaming (100GB+)  
-- Data integrity & validation frameworks  
-- API-first data delivery  
+- [The Problem We Solve](#-the-problem-we-solve)
+- [What We Deliver](#-what-we-deliver)
+- [Engineering Capabilities](#-engineering-capabilities)
+- [Infrastructure & DevOps](#-infrastructure--devops)
+- [Platform Management](#-ongoing-platform-management)
+- [Technology Stack](#-technology-stack)
+- [Industries](#-industries)
+- [How We Work](#-engagement-models)
+- [Get in Touch](#-lets-build-something-that-lasts)
 
 ---
 
-### ☁️ SaaS & Platform Engineering
-- Multi-tenant architecture  
-- Role-based access control (RBAC)  
-- Enterprise authentication (JWT, OAuth, SSO)  
-- Subscription & billing systems  
-- Usage metering & tenant isolation  
-- Domain & subdomain provisioning  
-- Microservices architecture  
-- API gateway & service orchestration  
+## The Problem We Solve
+
+Most AI platforms struggle **after launch** — systems don’t scale, inference gets expensive, pipelines break, and operations become fragile.
+
+| | |
+|:---:|:---:|
+| **Scale** | Multi-tenant SaaS that grows without rewrites |
+| **Security** | Enterprise auth, tenant isolation, deployment controls |
+| **Reliability** | Observability, safe rollouts, long-term maintainability |
 
 ---
 
-## 💻 Product Development
+## What We Deliver
 
-### 🎨 Frontend Systems
-- React / Next.js applications  
-- High-performance 2D & 3D visualization  
-- WebGL-based interfaces  
-- Real-time collaboration (WebSockets)  
-- Modular design systems  
-- Enterprise dashboards & analytics  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Backend Systems
-- NestJS scalable APIs  
-- FastAPI inference services  
-- Distributed job queues  
-- High-throughput systems  
-- Event-driven backend design  
-- Secure multi-environment deployments  
+### AI Systems Architecture
 
-### 📱 Mobile Engineering
-- Flutter enterprise applications  
-- Secure authentication flows  
-- CI/CD for mobile releases  
-- Device-to-cloud sync architecture  
+- Model serving & inference infrastructure
+- LLM integration (RAG, copilots, enterprise assistants)
+- Multi-model orchestration & ensemble layers
+- GPU-enabled inference pipelines
+- AI validation, evaluation & drift detection
+- Model versioning & safe rollout strategies
+- Secure on-prem / hybrid deployments
 
----
+</td>
+<td width="50%" valign="top">
 
-## ⚙️ Infrastructure & DevOps
+### Data Platform Engineering
 
-- Dockerized deployments  
-- Kubernetes orchestration  
-- CI/CD automation (GitHub Actions)  
-- Infrastructure as Code  
-- Multi-region cloud deployment  
-- Production logging & monitoring  
-- Backup & disaster recovery planning  
-- Blue/Green & Canary rollouts  
-- FinOps & cost optimization  
+- Batch & real-time data pipelines
+- Event-driven streaming architectures
+- Data lake & warehouse design
+- Feature store implementation
+- Metadata & lineage tracking
+- Large dataset streaming (100GB+)
+- Data integrity & API-first delivery
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🔄 Ongoing Platform Management
+### SaaS & Platform Engineering
 
-We stay involved **after go-live** to ensure long-term reliability:
+- Multi-tenant architecture
+- RBAC, JWT, OAuth, SSO
+- Subscription & billing systems
+- Usage metering & tenant isolation
+- Domain & subdomain provisioning
+- Microservices & API gateway orchestration
 
-- Production monitoring & SLA management  
-- Infrastructure upgrades & scaling  
-- AI lifecycle management  
-- Performance optimization cycles  
-- Security patching & hardening  
-- Technical debt reduction  
-- Regression automation  
-- Architecture refactoring  
-- Continuous roadmap execution  
+</td>
+<td width="50%" valign="top">
 
----
+### Product Development
 
-## ⚡ Technology Stack
+| **Frontend** | React, Next.js, WebGL, dashboards, WebSockets |
+| **Backend** | NestJS, FastAPI, job queues, event-driven systems |
+| **Mobile** | Flutter, secure auth, CI/CD, device-to-cloud sync |
 
-| Area | Stack |
-|-----|------|
-| ☁️ Cloud & Infra | AWS • Azure • GCP • Docker • Kubernetes • CI/CD • IaC |
-| 🤖 AI / ML / GenAI | AI • ML • LLMs • GenAI • RAG • MLOps • GPU Pipelines |
-| 📊 Data Engineering | ETL/ELT • Streaming • Treasure Data • Neo4j • PostgreSQL • MySQL |
-| 🏗️ SaaS Architecture | Multi-Tenant • RBAC • OAuth/SSO • Billing • APIs • Microservices |
-| 💻 Full-Stack | React • Next.js • TypeScript • NestJS • FastAPI • Laravel |
-| 🛒 Commerce & CMS | WordPress • WooCommerce • Shopify • Wix |
-| 📈 Enterprise Systems | Salesforce • HubSpot • CDP Integrations |
-| ⚙️ Operations | DevOps • Observability • Blue/Green • Canary • FinOps |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏭 Industries We Support
+## Infrastructure & DevOps
 
-| Sector | Domains |
-|------|--------|
-| 🏭 Manufacturing | Automation • Industrial Systems |
-| 🏥 Healthcare | HealthTech • Medical Platforms |
-| 🛍️ Retail & Commerce | FMCG • CPG • Fashion • Cosmetics • eCommerce |
-| 💰 Finance & Insurance | FinTech • Risk • Insurance Systems |
-| 🏢 Enterprise & IT | SaaS • IT Services • Real Estate |
+- **Containers & orchestration** — Docker, Kubernetes
+- **Automation** — CI/CD (GitHub Actions), Infrastructure as Code
+- **Deployment** — Multi-region cloud, Blue/Green & Canary
+- **Operations** — Logging, monitoring, backup & DR, FinOps
 
 ---
 
-## 🤝 Engagement Models
+## Ongoing Platform Management
 
-- End-to-end AI platform development  
-- SaaS architecture build & scale  
-- Dedicated engineering teams  
-- System modernization  
-- Technical advisory & architecture audits  
-- Long-term platform maintenance partnerships  
+We provide long-term reliability and evolution:
 
----
-
-## 📞 Let’s Build Something That Lasts
-
-🌐 https://www.tekvo.io  
-📧 inquiry@tekvo.io  
-📱 https://wa.me/918149952535  
+- Production monitoring & SLA management
+- Infrastructure upgrades & scaling
+- AI lifecycle management & performance optimization
+- Security patching & hardening
+- Technical debt reduction & regression automation
+- Architecture refactoring & roadmap execution
 
 ---
 
-© 2025 Tekvo Synergy Private Limited. All rights reserved.
+## Technology Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Cloud & infra** | AWS · Azure · GCP · Docker · Kubernetes · IaC · Multi-region · HA |
+| **AI / ML / GenAI** | LLMs · RAG · Model serving · MLOps · GPU pipelines |
+| **Data** | ETL/ELT · Batch/streaming · Treasure Data · Neo4j · PostgreSQL · MySQL · Warehouses |
+| **SaaS** | Multi-tenant · RBAC · OAuth/SSO · Billing · Microservices |
+| **Full-stack** | React · Next.js · TypeScript · NestJS · FastAPI · WebSockets |
+| **Commerce & CMS** | WordPress · WooCommerce · Shopify · Wix |
+| **Enterprise** | Salesforce · HubSpot · CDP integrations |
+| **Operations** | DevOps · Observability · Blue/Green · Canary · FinOps |
+
+---
+
+## Industries
+
+<div align="center">
+
+`Manufacturing` `Healthcare` `CPG` `Cosmetics` `FMCG` `Retail`  
+`Clothing & Fashion` `Accessories` `Finance` `IT` `Insurance` `Real Estate`
+
+</div>
+
+---
+
+## Engagement Models
+
+- End-to-end AI platform development
+- SaaS architecture build & scale
+- Dedicated engineering teams
+- System modernization
+- Technical advisory & architecture audits
+- Long-term platform maintenance partnerships
+
+---
+
+## Let’s Build Something That Lasts
+
+<div align="center">
+
+**[🌐 Website](https://www.tekvo.io)** · **[📧 Email](mailto:inquiry@tekvo.io)** · **[📱 WhatsApp](https://wa.me/918149952535)**
+
+*© 2025 Tekvo Synergy Private Limited. All rights reserved.*
+
+</div>

@@ -1,20 +1,19 @@
-<!-- Hero: matches www.tekvo.io green gradient + white text + CTA -->
-<div align="center" style="background: linear-gradient(135deg, #059669 0%, #047857 100%); color: #ffffff; padding: 2.5rem 1.5rem; border-radius: 8px; margin: 0 -1rem 1.5rem -1rem;">
+<div align="center">
 
 # **Tekvo**
 
 ### AI systems engineered for scale
 
-<p style="font-size: 1.1rem; color: rgba(255,255,255,0.95); max-width: 36rem; margin: 0.5rem auto 1.25rem;">Production-grade SaaS architecture · AI infrastructure that performs</p>
+Production-grade SaaS architecture · AI infrastructure that performs
 
-<p style="font-size: 0.95rem; color: rgba(255,255,255,0.85); max-width: 32rem; margin: 0 auto 1.5rem; line-height: 1.5;">We build, scale, and maintain AI-native SaaS platforms and enterprise-grade data systems. Secure, scalable, built for continuous evolution.</p>
+We build, scale, and maintain AI-native SaaS platforms and enterprise-grade data systems.  
+Secure, scalable, built for continuous evolution.
 
-<!-- Primary CTA style: white bg, green text, rounded -->
-<a href="https://www.tekvo.io" style="display: inline-block; background: #ffffff; color: #059669; padding: 0.6rem 1.5rem; border-radius: 8px; font-weight: 600; text-decoration: none;">Visit tekvo.io</a>
-&nbsp;
-<a href="mailto:inquiry@tekvo.io" style="display: inline-block; background: rgba(255,255,255,0.15); color: #ffffff; padding: 0.6rem 1.5rem; border-radius: 8px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.4);">Email</a>
-&nbsp;
-<a href="https://wa.me/918149952535" style="display: inline-block; background: rgba(255,255,255,0.15); color: #ffffff; padding: 0.6rem 1.5rem; border-radius: 8px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.4);">WhatsApp</a>
+<br/>
+
+[![Visit tekvo.io](https://img.shields.io/badge/Visit-tekvo.io-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tekvo.io)
+[![Email](https://img.shields.io/badge/Email-inquiry%40tekvo.io-047857?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:inquiry@tekvo.io)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918149952535)
 
 </div>
 
@@ -24,67 +23,59 @@
 
 Most AI platforms struggle **after launch** — systems don’t scale, inference gets expensive, pipelines break, and operations become fragile.
 
-<!-- Card row: glass-style like Hero cards (white/10, border white/20) -->
-<table width="100%">
-<tr>
-<td width="33%" style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<strong>Scale</strong><br/>
-Multi-tenant SaaS that grows without rewrites.
-</td>
-<td width="33%" style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<strong>Security</strong><br/>
-Enterprise auth, tenant isolation, deployment controls.
-</td>
-<td width="34%" style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<strong>Reliability</strong><br/>
-Observability, safe rollouts, long-term maintainability.
-</td>
-</tr>
-</table>
+| [![Scale](https://img.shields.io/badge/Scale-059669?style=for-the-badge)](https://www.tekvo.io) | [![Security](https://img.shields.io/badge/Security-059669?style=for-the-badge)](https://www.tekvo.io) | [![Reliability](https://img.shields.io/badge/Reliability-059669?style=for-the-badge)](https://www.tekvo.io) |
+|:---:|:---:|:---:|
+| Multi-tenant SaaS that grows without rewrites. | Enterprise auth, tenant isolation, deployment controls. | Observability, safe rollouts, long-term maintainability. |
 
 ---
 
 ## What we deliver
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<h4 style="margin-top: 0; color: #047857;">AI Systems Architecture</h4>
-<ul style="margin: 0.5rem 0 0 1rem; padding-left: 0.5rem;">
-<li>Model serving & inference infrastructure</li>
-<li>LLM integration (RAG, copilots, enterprise assistants)</li>
-<li>Multi-model orchestration & GPU pipelines</li>
-<li>AI validation, drift detection, model versioning</li>
-<li>Secure on-prem / hybrid deployments</li>
-</ul>
+<td width="50%" valign="top">
+
+[![AI Systems Architecture](https://img.shields.io/badge/AI_Systems_Architecture--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- Model serving & inference infrastructure
+- LLM integration (RAG, copilots, enterprise assistants)
+- Multi-model orchestration & GPU pipelines
+- AI validation, drift detection, model versioning
+- Secure on-prem / hybrid deployments
+
 </td>
-<td width="50%" style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<h4 style="margin-top: 0; color: #047857;">Data Platform Engineering</h4>
-<ul style="margin: 0.5rem 0 0 1rem; padding-left: 0.5rem;">
-<li>Batch & real-time data pipelines</li>
-<li>Event-driven streaming architectures</li>
-<li>Data lake, warehouse & feature store</li>
-<li>Metadata, lineage, large dataset streaming (100GB+)</li>
-<li>Data integrity & API-first delivery</li>
-</ul>
+<td width="50%" valign="top">
+
+[![Data Platform Engineering](https://img.shields.io/badge/Data_Platform_Engineering--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- Batch & real-time data pipelines
+- Event-driven streaming architectures
+- Data lake, warehouse & feature store
+- Metadata, lineage, large dataset streaming (100GB+)
+- Data integrity & API-first delivery
+
 </td>
 </tr>
 <tr>
-<td width="50%" style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<h4 style="margin-top: 0; color: #047857;">SaaS & Platform Engineering</h4>
-<ul style="margin: 0.5rem 0 0 1rem; padding-left: 0.5rem;">
-<li>Multi-tenant architecture</li>
-<li>RBAC, JWT, OAuth, SSO</li>
-<li>Subscription, billing, usage metering</li>
-<li>Domain & subdomain provisioning</li>
-<li>Microservices & API gateway</li>
-</ul>
+<td width="50%" valign="top">
+
+[![SaaS & Platform](https://img.shields.io/badge/SaaS_%26_Platform--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- Multi-tenant architecture
+- RBAC, JWT, OAuth, SSO
+- Subscription, billing, usage metering
+- Domain & subdomain provisioning
+- Microservices & API gateway
+
 </td>
-<td width="50%" style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1rem; vertical-align: top;">
-<h4 style="margin-top: 0; color: #047857;">Product Development</h4>
-<p style="margin: 0.5rem 0 0;"><strong>Frontend</strong> — React, Next.js, WebGL, dashboards, WebSockets</p>
-<p style="margin: 0.25rem 0 0;"><strong>Backend</strong> — NestJS, FastAPI, job queues, event-driven</p>
-<p style="margin: 0.25rem 0 0;"><strong>Mobile</strong> — Flutter, secure auth, CI/CD, device-to-cloud</p>
+<td width="50%" valign="top">
+
+[![Product Development](https://img.shields.io/badge/Product_Development--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- **Frontend** — React, Next.js, WebGL, dashboards, WebSockets
+- **Backend** — NestJS, FastAPI, job queues, event-driven
+- **Mobile** — Flutter, secure auth, CI/CD, device-to-cloud
+
 </td>
 </tr>
 </table>
@@ -113,36 +104,92 @@ Observability, safe rollouts, long-term maintainability.
 
 ## Technology stack
 
-| Area | Technologies |
-|------|--------------|
-| **Cloud & infra** | AWS · Azure · GCP · Docker · Kubernetes · IaC · Multi-region · HA |
-| **AI / ML / GenAI** | LLMs · RAG · Model serving · MLOps · GPU pipelines |
-| **Data** | ETL/ELT · Batch/streaming · Treasure Data · Neo4j · PostgreSQL · MySQL |
-| **SaaS** | Multi-tenant · RBAC · OAuth/SSO · Billing · Microservices |
-| **Full-stack** | React · Next.js · TypeScript · NestJS · FastAPI · WebSockets |
-| **Commerce & CMS** | WordPress · WooCommerce · Shopify · Wix |
-| **Enterprise** | Salesforce · HubSpot · CDP integrations |
-| **Operations** | DevOps · Observability · Blue/Green · Canary · FinOps |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[![Cloud & infra](https://img.shields.io/badge/Cloud_%26_infra--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- AWS · Azure · GCP · Docker · Kubernetes
+- IaC · Multi-region · HA
+
+</td>
+<td width="50%" valign="top">
+
+[![AI / ML / GenAI](https://img.shields.io/badge/AI_%2F_ML_%2F_GenAI--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- LLMs · RAG · Model serving · MLOps
+- GPU pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Data](https://img.shields.io/badge/Data--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- ETL/ELT · Batch/streaming · Treasure Data
+- Neo4j · PostgreSQL · MySQL · Warehouses
+
+</td>
+<td width="50%" valign="top">
+
+[![SaaS](https://img.shields.io/badge/SaaS--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- Multi-tenant · RBAC · OAuth/SSO
+- Billing · Microservices
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Full-stack](https://img.shields.io/badge/Full_stack--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- React · Next.js · TypeScript
+- NestJS · FastAPI · WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+[![Commerce & CMS](https://img.shields.io/badge/Commerce_%26_CMS--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- WordPress · WooCommerce · Shopify · Wix · Suchify
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Enterprise](https://img.shields.io/badge/External_System_Integrations--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- Salesforce · HubSpot · CDP integrations
+
+</td>
+<td width="50%" valign="top">
+
+[![Operations](https://img.shields.io/badge/Operations--059669?style=for-the-badge)](https://www.tekvo.io)
+
+- DevOps · Observability · Blue/Green · Canary · FinOps
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Industries
 
-<div align="center">
-
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Manufacturing</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Healthcare</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">CPG</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Cosmetics</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">FMCG</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Retail</code>  
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Clothing & Fashion</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Finance</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">IT</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Insurance</code>
-<code style="background: #f0fdf4; color: #047857; padding: 0.2rem 0.5rem; border-radius: 4px;">Real Estate</code>
-
-</div>
+[![Manufacturing](https://img.shields.io/badge/-Manufacturing-059669?style=flat-square)](https://www.tekvo.io)
+[![Healthcare](https://img.shields.io/badge/-Healthcare-059669?style=flat-square)](https://www.tekvo.io)
+[![CPG](https://img.shields.io/badge/-CPG-059669?style=flat-square)](https://www.tekvo.io)
+[![Cosmetics](https://img.shields.io/badge/-Cosmetics-059669?style=flat-square)](https://www.tekvo.io)
+[![FMCG](https://img.shields.io/badge/-FMCG-059669?style=flat-square)](https://www.tekvo.io)
+[![Retail](https://img.shields.io/badge/-Retail-059669?style=flat-square)](https://www.tekvo.io)
+[![Finance](https://img.shields.io/badge/-Finance-059669?style=flat-square)](https://www.tekvo.io)
+[![IT](https://img.shields.io/badge/-IT-059669?style=flat-square)](https://www.tekvo.io)
+[![Insurance](https://img.shields.io/badge/-Insurance-059669?style=flat-square)](https://www.tekvo.io)
+[![Real Estate](https://img.shields.io/badge/-Real%20Estate-059669?style=flat-square)](https://www.tekvo.io)
 
 ---
 
@@ -159,11 +206,12 @@ Observability, safe rollouts, long-term maintainability.
 
 ## Let’s build something that lasts
 
-<!-- Footer: matches www.tekvo.io dark gray footer -->
-<div align="center" style="background: #111827; color: #f9fafb; padding: 2rem 1.5rem; border-radius: 8px; margin-top: 1.5rem;">
+<div align="center">
 
-**[🌐 Website](https://www.tekvo.io)** &nbsp;·&nbsp; **[📧 inquiry@tekvo.io](mailto:inquiry@tekvo.io)** &nbsp;·&nbsp; **[📱 WhatsApp](https://wa.me/918149952535)**
+[![Website](https://img.shields.io/badge/Website-www.tekvo.io-059669?style=for-the-badge)](https://www.tekvo.io)
+[![Email](https://img.shields.io/badge/Email-inquiry%40tekvo.io-047857?style=for-the-badge)](mailto:inquiry@tekvo.io)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge)](https://wa.me/918149952535)
 
-<p style="margin: 1rem 0 0; font-size: 0.85rem; color: #9ca3af;">© 2025 Tekvo Synergy Private Limited. All rights reserved.</p>
+*© 2025 Tekvo Synergy Private Limited. All rights reserved.*
 
 </div>

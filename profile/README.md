@@ -2,6 +2,8 @@
 
 # **Tekvo**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Tekvo!+👋;AI+That+Works+in+Production;From+Data+to+Self-Improving+AI+Systems;Your+AI+Execution+Partner&center=true&size=26&width=1000)](https://www.tekvo.io)
+
 ### AI systems engineered for scale
 
 Production-grade SaaS architecture · AI infrastructure that performs

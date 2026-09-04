@@ -1,178 +1,97 @@
 <div align="center">
 
-# **Tekvo**
+# Tekvo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Tekvo!+👋;AI+That+Works+in+Production;From+Data+to+Self-Improving+AI+Systems;Your+AI+Execution+Partner&center=true&size=26&width=1000)](https://www.tekvo.io)
+**Tech talent, product engineering, and production AI systems.**
 
-### AI systems engineered for scale
-
-Production-grade SaaS architecture · AI infrastructure that performs
-
-We build, scale, and maintain AI-native SaaS platforms and enterprise-grade data systems.  
-Secure, scalable, built for continuous evolution.
+We hire remote specialists, deliver software with dedicated teams, and ship our own SaaS — including [Hireflo](https://www.tekvo.io/hireflo), [Milao](https://www.tekvo.io/milao), and [Datavine](https://www.tekvo.io/datavine).
 
 <br/>
 
-[![Visit tekvo.io](https://img.shields.io/badge/Visit-tekvo.io-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tekvo.io)
-[![Email](https://img.shields.io/badge/Email-inquiry%40tekvo.io-047857?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:inquiry@tekvo.io)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918149952535)
+[![Website](https://img.shields.io/badge/Website-www.tekvo.io-059669?style=for-the-badge)](https://www.tekvo.io)
+[![Hire talent](https://img.shields.io/badge/Hire-Talent-047857?style=for-the-badge)](https://www.tekvo.io/hire-talent)
+[![Outsource](https://img.shields.io/badge/Outsource-a_project-0f766e?style=for-the-badge)](https://www.tekvo.io/outsource-project)
+[![Careers](https://img.shields.io/badge/Careers-Open_roles-334155?style=for-the-badge)](https://www.tekvo.io/careers)
+[![Email](https://img.shields.io/badge/Email-inquiry%40tekvo.io-1e293b?style=for-the-badge)](mailto:inquiry@tekvo.io)
 
 </div>
 
 ---
 
-## The problem we solve
+## What we do
 
-Most AI platforms struggle **after launch** — systems don’t scale, inference gets expensive, pipelines break, and operations become fragile.
+Most AI and SaaS work fails after launch: tenancy, cost, reliability, and operations were never designed in.
 
-| [![Scale](https://img.shields.io/badge/Scale-059669?style=for-the-badge)](https://www.tekvo.io) | [![Security](https://img.shields.io/badge/Security-059669?style=for-the-badge)](https://www.tekvo.io) | [![Reliability](https://img.shields.io/badge/Reliability-059669?style=for-the-badge)](https://www.tekvo.io) |
-|:---:|:---:|:---:|
-| Multi-tenant SaaS that grows without rewrites. | Enterprise auth, tenant isolation, deployment controls. | Observability, safe rollouts, long-term maintainability. |
+Tekvo builds and runs the production layer — multi-tenant platforms, data pipelines, and AI features that humans still control.
+
+| Area | What you get | Start here |
+| --- | --- | --- |
+| **Talent** | Pre-vetted remote engineers and specialists, typically matched in under 48 hours | [Hire talent](https://www.tekvo.io/hire-talent) |
+| **Delivery** | Dedicated teams for web, mobile, cloud, data, and AI products | [Outsource a project](https://www.tekvo.io/outsource-project) |
+| **Products** | Our own SaaS, used by customers and as reference architectures | [Products](https://www.tekvo.io/hireflo) |
+| **Careers** | Remote roles and internships | [Open roles](https://www.tekvo.io/careers) · [Internships](https://www.tekvo.io/internship) |
 
 ---
 
-## What we deliver
+## Products we ship
+
+| Product | What it is |
+| --- | --- |
+| [Hireflo](https://www.tekvo.io/hireflo) | AI-conducted hiring interviews with evidence-linked scorecards. Humans review and decide. Never auto-rejects. Never infers emotion. App: [hireflo.tekvo.ai](https://hireflo.tekvo.ai) |
+| [Milao](https://www.tekvo.io/milao) | AI conversation coach for speaking, interviews, and feedback. [milao.ai](https://milao.ai) |
+| [Datavine](https://www.tekvo.io/datavine) | Professional network by field and area. Post jobs free; give and get referrals. [datavine.tekvo.io](https://datavine.tekvo.io/) |
+| [Lockboxy](https://www.tekvo.io/products/lockboxy) | Data governance and access control for Notion — encryption, PII masking, row-level access |
+| [Tabulator for Power BI](https://www.tekvo.io/tabulator-powerbi) | Advanced Power BI table visual (HTML columns, calculated fields, grouping, Excel-like filters) |
+| [Suchify](https://www.tekvo.io/suchify) | Store and inventory management for small and local businesses. [suchify.com](https://suchify.com) |
+| [Project Hive](https://www.tekvo.io/project-hive-management) | Project management on Google Sheets with Apps Script. One-time setup, no subscription |
+| [Ecommerce Blueprint](https://www.tekvo.io/ecommerce-blueprint) | UI/UX guidelines and feature blueprints for online stores |
+
+---
+
+## How we engineer platforms
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-[![AI Systems Architecture](https://img.shields.io/badge/AI_Systems_Architecture--059669?style=for-the-badge)](https://www.tekvo.io)
+**AI systems** — [AI & data](https://www.tekvo.io/services/ai-data) · [on-prem multi-agent](https://www.tekvo.io/solutions/onprem-multi-agent)
 
-- Model serving & inference infrastructure
-- LLM integration (RAG, copilots, enterprise assistants)
-- Multi-model orchestration & GPU pipelines
-- AI validation, drift detection, model versioning
-- Secure on-prem / hybrid deployments
+- RAG, copilots, and enterprise assistants
+- Model serving, evaluation, and versioning
+- Hybrid / on-prem deployments when data cannot leave the boundary
+- Humans stay in the decision loop (no silent auto-reject, no emotion inference)
 
 </td>
 <td width="50%" valign="top">
 
-[![Data Platform Engineering](https://img.shields.io/badge/Data_Platform_Engineering--059669?style=for-the-badge)](https://www.tekvo.io)
+**Data platforms** — [data engineering](https://www.tekvo.io/services/data-engineering)
 
-- Batch & real-time data pipelines
-- Event-driven streaming architectures
-- Data lake, warehouse & feature store
-- Metadata, lineage, large dataset streaming (100GB+)
-- Data integrity & API-first delivery
+- Batch and streaming pipelines
+- Warehouses, lakes, and API-first delivery
+- Lineage, quality, and tenant isolation
+- Analytics that operations teams can actually run
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-[![SaaS & Platform](https://img.shields.io/badge/SaaS_%26_Platform--059669?style=for-the-badge)](https://www.tekvo.io)
+**SaaS foundations** — [SaaS Foundation](https://www.tekvo.io/solutions/saas-foundation) · [CMS + CRM](https://www.tekvo.io/solutions/cms-crm)
 
 - Multi-tenant architecture
-- RBAC, JWT, OAuth, SSO
-- Subscription, billing, usage metering
-- Domain & subdomain provisioning
-- Microservices & API gateway
+- RBAC, OAuth, SSO
+- Billing and usage metering
+- NestJS + React delivery baselines we reuse
 
 </td>
 <td width="50%" valign="top">
 
-[![Product Development](https://img.shields.io/badge/Product_Development--059669?style=for-the-badge)](https://www.tekvo.io)
+**Product engineering** — [web](https://www.tekvo.io/services/web-development) · [cloud & DevOps](https://www.tekvo.io/services/cloud-devops)
 
-- **Frontend** — React, Next.js, WebGL, dashboards, WebSockets
-- **Backend** — NestJS, FastAPI, job queues, event-driven
-- **Mobile** — Flutter, secure auth, CI/CD, device-to-cloud
-
-</td>
-</tr>
-</table>
-
----
-
-## Infrastructure & DevOps
-
-- **Containers & orchestration** — Docker, Kubernetes  
-- **Automation** — CI/CD (GitHub Actions), Infrastructure as Code  
-- **Deployment** — Multi-region cloud, Blue/Green & Canary  
-- **Operations** — Logging, monitoring, backup & DR, FinOps  
-
----
-
-## Ongoing platform management
-
-- Production monitoring & SLA management  
-- Infrastructure upgrades & scaling  
-- AI lifecycle management & performance optimization  
-- Security patching & hardening  
-- Technical debt reduction & regression automation  
-- Architecture refactoring & roadmap execution  
-
----
-
-## Technology stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-[![Cloud & infra](https://img.shields.io/badge/Cloud_%26_infra--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- AWS · Azure · GCP · Docker · Kubernetes
-- IaC · Multi-region · HA
-
-</td>
-<td width="50%" valign="top">
-
-[![AI / ML / GenAI](https://img.shields.io/badge/AI_%2F_ML_%2F_GenAI--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- LLMs · RAG · Model serving · MLOps
-- GPU pipelines
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[![Data](https://img.shields.io/badge/Data--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- ETL/ELT · Batch/streaming · Treasure Data
-- Neo4j · PostgreSQL · MySQL · Warehouses
-
-</td>
-<td width="50%" valign="top">
-
-[![SaaS](https://img.shields.io/badge/SaaS--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- Multi-tenant · RBAC · OAuth/SSO
-- Billing · Microservices
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[![Full-stack](https://img.shields.io/badge/Full_stack--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- React · Next.js · TypeScript
-- NestJS · FastAPI · WebSockets
-
-</td>
-<td width="50%" valign="top">
-
-[![Commerce & CMS](https://img.shields.io/badge/Commerce_%26_CMS--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- WordPress · WooCommerce · Shopify · Wix · Suchify
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[![Enterprise](https://img.shields.io/badge/External_System_Integrations--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- Salesforce · HubSpot · CDP integrations
-
-</td>
-<td width="50%" valign="top">
-
-[![Operations](https://img.shields.io/badge/Operations--059669?style=for-the-badge)](https://www.tekvo.io)
-
-- DevOps · Observability · Blue/Green · Canary · FinOps
+- React, Next.js, TypeScript
+- NestJS, FastAPI, event-driven backends
+- Docker, Kubernetes, GitHub Actions
+- Observability, safe rollouts, FinOps
 
 </td>
 </tr>
@@ -182,38 +101,35 @@ Most AI platforms struggle **after launch** — systems don’t scale, inference
 
 ## Industries
 
-[![Manufacturing](https://img.shields.io/badge/-Manufacturing-059669?style=flat-square)](https://www.tekvo.io)
-[![Healthcare](https://img.shields.io/badge/-Healthcare-059669?style=flat-square)](https://www.tekvo.io)
-[![CPG](https://img.shields.io/badge/-CPG-059669?style=flat-square)](https://www.tekvo.io)
-[![Cosmetics](https://img.shields.io/badge/-Cosmetics-059669?style=flat-square)](https://www.tekvo.io)
-[![FMCG](https://img.shields.io/badge/-FMCG-059669?style=flat-square)](https://www.tekvo.io)
-[![Retail](https://img.shields.io/badge/-Retail-059669?style=flat-square)](https://www.tekvo.io)
-[![Finance](https://img.shields.io/badge/-Finance-059669?style=flat-square)](https://www.tekvo.io)
-[![IT](https://img.shields.io/badge/-IT-059669?style=flat-square)](https://www.tekvo.io)
-[![Insurance](https://img.shields.io/badge/-Insurance-059669?style=flat-square)](https://www.tekvo.io)
-[![Real Estate](https://img.shields.io/badge/-Real%20Estate-059669?style=flat-square)](https://www.tekvo.io)
+Work is scoped to real operating constraints — not a generic “AI for X” slide.
+
+[Manufacturing](https://www.tekvo.io/industries/manufacturing) ·
+[Healthcare](https://www.tekvo.io/industries/healthcare) ·
+[Financial services](https://www.tekvo.io/industries/financial-services) ·
+[Retail & ecommerce](https://www.tekvo.io/industries/retail-ecommerce) ·
+[Logistics](https://www.tekvo.io/industries/logistics) ·
+[Technology platforms](https://www.tekvo.io/industries/technology-platforms)
 
 ---
 
-## Engagement models
+## Ways to work with us
 
-- End-to-end AI platform development  
-- SaaS architecture build & scale  
-- Dedicated engineering teams  
-- System modernization  
-- Technical advisory & architecture audits  
-- Long-term platform maintenance partnerships  
+- [Hire remote talent](https://www.tekvo.io/hire-talent)
+- [Outsource a product or platform](https://www.tekvo.io/outsource-project)
+- [SaaS / AI accelerator starting points](https://www.tekvo.io/solutions/saas-foundation)
+- Architecture audits and long-term platform operations
+- [Open roles at Tekvo](https://www.tekvo.io/careers)
+
+More on [our story](https://www.tekvo.io/our-story), [certifications](https://www.tekvo.io/certifications), and the [knowledge center](https://www.tekvo.io/knowledge-center).
 
 ---
-
-## Let’s build something that lasts
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-www.tekvo.io-059669?style=for-the-badge)](https://www.tekvo.io)
-[![Email](https://img.shields.io/badge/Email-inquiry%40tekvo.io-047857?style=for-the-badge)](mailto:inquiry@tekvo.io)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge)](https://wa.me/918149952535)
+**Let’s build something that lasts**
 
-*© 2025 Tekvo Synergy Private Limited. All rights reserved.*
+[www.tekvo.io](https://www.tekvo.io) · [inquiry@tekvo.io](mailto:inquiry@tekvo.io) · [WhatsApp](https://wa.me/918149952535)
+
+*© 2026 Tekvo Synergy Private Limited. All rights reserved.*
 
 </div>
